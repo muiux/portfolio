@@ -1,7 +1,20 @@
-- name: Adobe Photoshop
+- name: Communication
   percentage: 95
   color: info
 
-- name: Adobe Illustrator
+- name: Time Management
   percentage: 90
   color: success
+
+- name: Creativity
+  percentage: 90
+  color: success
+
+- name: Project Management
+  percentage: 90
+  color: success
+
+- name: Continuous Learning
+  percentage: 85
+  color: secondary
+  

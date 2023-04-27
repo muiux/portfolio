@@ -1,11 +1,31 @@
 - name: HTML5/CSS3
-  percentage: 90
+  percentage: 95
   color: danger
 
-- name: Go
-  percentage: 80
-  color:
+- name: Javascript
+  percentage: 95
+  color: danger
 
-- name: Python
-  percentage: 70
+- name: Typescript
+  percentage: 90
+  color: primary
+
+- name: Web APIs
+  percentage: 90
+  color: primary
+
+- name: Version Control
+  percentage: 85
+  color: primary
+
+- name: Build Tools
+  percentage: 80
+  color: secondary
+
+- name: Performance Optimization
+  percentage: 80
+  color: secondary
+
+- name: Testing
+  percentage: 75
   color: secondary
