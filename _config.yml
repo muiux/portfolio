@@ -2,7 +2,7 @@
 title: Portfolio
 description: >-
   I'm an artist who paints with code, bringing visions to life.
-baseurl: "/portfolio" # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
+baseurl: "" # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository: muiux/muiux.github.io/portfolio # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme: muiux/portfolYOU
 open_new_tab: true # Opens external URLs in new tab (works for posts, projects and navbar only)
@@ -60,7 +60,6 @@ analytics:
   enabled: false # Set true to enable analytics
   google:
     tracking_id: your-google-tracking-id
-
 
 ### Defaults for collections ###
 defaults:
