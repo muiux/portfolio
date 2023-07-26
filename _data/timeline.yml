@@ -5,12 +5,17 @@
     <b>Ubeswap</b> is a decentralized exchange and automated market maker protocol for Celo assets.
     Developed and maintained dex that run on the celo network with good understanding of web3 technologies, such as web3.js, ethers.js, solidity, IPFS, and smart contracts.
 
-- title: Senior Frontend Engineer at <b>IXO</b>, ZA
-  from: 2019
+- title: Senior Frontend Developer at <b>Invown</b>, US
+  from: 2020
   to: 2021
   description:
-    <b>IXO World</b> is a blockchain-based platform that aims to create a more sustainable and equitable world by providing tools and infrastructure for impact measurement, verification, and funding.
-    Developed and maintained ixo webclient for accessing the features and functionality of the IXO platform to allow users to create and manage impact projects, track progress, and receive impact verification and validation services.
+    <b>Invown</b> is a two-sided marketplace where companies offer real estate-backed investment opportunities to investors.
+    Developed new user-facing features using Vue.JS with optimized application.
+
+- title: Software Engineer at <b>Google</b>, CA
+  from: 2019
+  to: 2020
+  description:
 
 - title: Frontend Developer at <b>CarBlip</b>, US
   from: 2017
