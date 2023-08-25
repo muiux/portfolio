@@ -9,7 +9,7 @@ weight: 3
 
 Hi I am **{{ site.author.name }}** :wave:,
 <br /><br />
-As a highly skilled web developer with over 10 years of experience, I have written a wide range of web applications, from consumer productivity software to mission-critical financial trading platforms. My extensive knowledge of front-end JavaScript and browser APIs, along with my significant experience with popular frameworks and libraries like React and Redux, enables me to create highly performant and scalable applications.
+As a highly skilled web developer with over 8 years of experience, I have written a wide range of web applications, from consumer productivity software to mission-critical financial trading platforms. My extensive knowledge of front-end JavaScript and browser APIs, along with my significant experience with popular frameworks and libraries like React and Redux, enables me to create highly performant and scalable applications.
 <br /><br />
 My expertise also includes a deep understanding of various web development technologies such as Javascript, Typescript, Angular, and Vue, as well as traditional technologies like PHP, Node/Express, MongoDB, and MySQL. I am committed to delivering high-quality work with clean and efficient code, ensuring that my clients receive the best possible product within the shortest possible timeframe.
 <br /><br />
